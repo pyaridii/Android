@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439941631013",
+    "firebase_url": "https://authenticatesignin.firebaseio.com",
+    "project_id": "authenticatesignin",
+    "storage_bucket": "authenticatesignin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439941631013:android:1a1b348f8bca1e9f1a43cc",
+        "android_client_info": {
+          "package_name": "com.example.authenticatesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439941631013-tahm2lhaspdgbp699dqk8qiuhrl5087m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authenticatesignin",
+            "certificate_hash": "1b4386b991b899dd3b951b324ce25360a0dec93c"
+          }
+        },
+        {
+          "client_id": "439941631013-4l54qschq93tcausv1cngk3104rr2g0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-o-FYUsUZiErgMy8KF84wFNLcUCeQ-zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439941631013-4l54qschq93tcausv1cngk3104rr2g0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
